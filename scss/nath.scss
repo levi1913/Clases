@@ -27,3 +27,20 @@ header{
     }
     
 }
+@media (max-width: 500px) {
+    header h1{
+      font-size:30px ;
+    }
+    .tablas{
+      width: all;
+      height: auto;
+      margin: auto;
+      padding: 0;
+      padding-top:10px;
+      overflow-x: scroll;
+    }
+    .tablas .thead-yellow {
+      padding-left: 0;
+      padding-right: 0;
+    }
+  }
