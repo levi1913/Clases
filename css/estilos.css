@@ -6,3 +6,12 @@
 body {
   background: rgba(98, 212, 206, 0.904);
 }
+
+footer {
+  background: #312e2e;
+  color: wheat;
+  text-align: center;
+  width: all;
+  height: auto;
+  padding-top: 8px;
+}
