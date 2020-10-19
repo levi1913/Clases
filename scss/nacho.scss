@@ -26,6 +26,22 @@ header{
     }
     
 }
+.anuncios{
+  width: 500px;
+  height: auto;
+  padding: 15px;
+  background: darkslategrey;
+  color: white;
+  margin: auto;
+  margin-top: 20px;
+  border-radius: 5px;
+  .tarjeta{
+    border-bottom: 1px solid whitesmoke;
+    font-size: 20px;
+    padding-left: 15px;
+    margin-bottom: 10px;
+  }
+}
 @media (max-width: 500px) {
     header h1{
       font-size:30px ;
