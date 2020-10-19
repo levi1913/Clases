@@ -66,6 +66,8 @@ header h1 {
 
   .anuncios {
     width: auto;
+    margin-left: 5px;
+    margin-right: 5px;
   }
 
   .tarea {
