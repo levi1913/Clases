@@ -1,0 +1,29 @@
+@charset "UTF-8";
+body {
+  background: whitesmoke;
+}
+
+header {
+  background: rgba(21, 221, 111, 0.808);
+  width: all;
+  height: 100px;
+  text-align: center;
+  padding-top: 20px;
+  border-bottom: 1px solid black;
+}
+header h1 {
+  color: #332e2e;
+  font-style: italic;
+}
+
+.tablas {
+  width: 80%;
+  margin: auto;
+  padding: 100px;
+}
+.tablas .thead-yellow {
+  background: rgba(21, 221, 111, 0.808);
+}
+.tablas .descripción {
+  font-size: 10px;
+}

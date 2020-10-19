@@ -1,0 +1,28 @@
+body{
+    background: whitesmoke;
+}
+header{
+    background: rgba(21, 221, 111, 0.808);
+    width: all;
+    height: 100px;
+    text-align: center;
+    padding-top: 20px;
+    border-bottom: 1px solid black;
+    h1{
+        color:rgb(51, 46, 46);
+        font-style: italic;
+    }
+}
+.tablas{
+    .thead-yellow{
+        background: rgba(21, 221, 111, 0.808);
+    }
+    width: 80%;
+    margin: auto;
+    padding: 100px;
+    
+    .descripción{
+        font-size: 10px;
+    }
+    
+}
