@@ -63,4 +63,12 @@ header h1 {
     padding-left: 0;
     padding-right: 0;
   }
+
+  .anuncios {
+    width: auto;
+  }
+
+  .tarea {
+    width: auto;
+  }
 }
